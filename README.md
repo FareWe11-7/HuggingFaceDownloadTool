@@ -1,0 +1,2 @@
+# HuggingFaceDownloadTool
+改自hf-mirror官方工具，基于Aria2c和国内镜像源实现对HuggingFace的镜像下载
